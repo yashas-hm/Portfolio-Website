@@ -1,0 +1,18 @@
+#carouselExampleCaptions{
+    height: max-content;
+    width: max-content;
+    margin: 100px auto;
+    align-content: center;
+}
+
+body{
+    background: linear-gradient(45deg, #c2e59c 0% 20%, #64b3f4);
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+img{
+    width: 800px;
+    height: 600px;
+}

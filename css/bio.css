@@ -1,0 +1,8 @@
+#content{
+    color: azure;
+}
+
+#content > .jumbotron{
+    background-color: #0d1011;
+    height: auto;
+}
